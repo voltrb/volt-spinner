@@ -10,9 +10,9 @@ Gem::Specification.new do |spec|
   spec.version       = version
   spec.authors       = ["Corey"]
   spec.email         = ["coreystout@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = "Volt Spinner"
+  spec.description   = "A simple spinner for Volt."
+  spec.homepage      = "https://github.com/voltrb/volt-spinner"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
